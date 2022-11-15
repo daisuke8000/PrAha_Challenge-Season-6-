@@ -10,7 +10,7 @@ PrAhaChallenge 課題管理用リポジトリ
 ## how to use
 1. 環境構築
     ```sh
-    make up-build
+    cd データベース設計/DBモデリング1/docker && make up-build
     ```
 1. DB接続
    ```sh
